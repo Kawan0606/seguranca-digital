@@ -87,6 +87,20 @@ body{
     margin: 0 auto;
 }
 
+.parametro-senhas-botoes{
+    display: flex;
+    justify-content: center;
+
+}
+
+.parametro-senhas__botao{
+    background-color: var(--fundo-texto);
+    color: var(--branco);
+    border: 2px solid var(--borda);
+    padding: 24px;
+    
+}
+
 @media screen and (min-width: 768px) {
     .parametro-coluna__senha{
         flex-direction: row;
