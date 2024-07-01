@@ -5,7 +5,7 @@
     --cor-de-fundo: #6e2121;
     --fundo-senha: hsl(0, 0%, 0%);
     --fundo-texto: #6d2626;
-    --borda: #6b2020;
+    --borda: #ffffff;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto Mono', monospace;
 }
@@ -139,12 +139,12 @@ label{
 
 .media{
     width: 50%;
-    background-color: #FAF408;
+    background-color: #fa8908;
 }
 
 .forte{
     width: 100%;
-    background-color: #00FF85;
+    background-color: #eeff00;
 }
 
 .parametro-senha__textos{
